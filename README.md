@@ -5,15 +5,15 @@
 ### 项目中所使用的所有数据包括：
 - 5-Year (2012-2017) American Community Survey (ACS) in Philadelphia (API through https://api.census.gov/) 美国人口普查数据（2012-2017）
 - Liquor Violations in Philadelphia (API thourgh https://phl.carto.com) 费城违反酒精法规事件统计
-- Bike-Share Trip Counts of Indego (https://www.rideindego.com/about/data/) 
+- Bike-Share Trip Counts of Indego (https://www.rideindego.com/about/data/) Indego 出行数据
   - indego-trips-2018-q1.csv
   - indego-trips-2018-q2.csv
   - indego-trips-2018-q3.csv
   - indego-trips-2018-q4.csv
- Indego 出行数据
-- Indego Stations (http://www.rideindego.com/stations/json/)
+
+- Indego Stations (http://www.rideindego.com/stations/json/) Indego 站点信息
   - stations.json
-Indego 站点信息
-- Weather Data (Average Daily Temperature & Precipitation) in Philadelphia in 2018 (https://www.wunderground.com/weather/us/pa/philadelphia)
+
+- Weather Data (Average Daily Temperature & Precipitation) in Philadelphia in 2018 (https://www.wunderground.com/weather/us/pa/philadelphia) 费城2018年天气信息（日均天气、降水） 
   - weather.csv
-费城2018年天气信息（日均天气、降水） 
+
