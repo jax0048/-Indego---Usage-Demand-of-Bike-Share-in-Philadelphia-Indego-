@@ -17,7 +17,7 @@
 
 - Weather Data (Average Daily Temperature & Precipitation) in Philadelphia in 2018 (https://www.wunderground.com/weather/us/pa/philadelphia) 费城2018年天气信息（日均天气、降水） 
   - weather.csv
-## 研究结果
+## 研究结果简述
 该项目主要分为两部分：探索分析（exploratory analysis)和回归分析（regression analysis)。在第一部分中，通过对出行、人口统计、天气等数据的分析和可视化处理，挖掘出了各部分数据的内在特征。第二部分的研究则侧重于探索出行数据与其他数据的关联。由此，我们发现了一些较为显著的特征：
 - 费城的人口普查街区（census tracts）在一定程度上呈现出一定集聚性，及在人口统计上具有相似特征的街区在空间分布上彼此邻近
 - 费城共享单车 Indego 的使用在工作日的通勤高峰时期最为频繁
